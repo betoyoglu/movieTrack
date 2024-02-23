@@ -1,0 +1,49 @@
+﻿@model WebProject.Models.Upcoming
+
+@{
+    ViewData["Title"] = "Details";
+}
+<link rel="stylesheet" href="~/css/index.css">
+<div class="maindiv">
+    <div class="maindiv"><h1>Details</h1></div>
+    <br></br>
+    <div>
+        <dl class="row text-white">
+            <dt class="col-sm-2">
+                Series Name:
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.SeriesName)
+            </dd>
+            <dt class="col-sm-2">
+                Season:
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Season)
+            </dd>
+            <dt class="col-sm-2">
+                Episode:
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Episode)
+            </dd>
+            <dt class="col-sm-2">
+                Duration Time:
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.DurationTime)
+            </dd>
+            <dt class="col-sm-2">
+                Release Date:
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.ReleaseDate)
+            </dd>
+        </dl>
+    </div>
+    <div>
+        <a class="text-decoration-none text-white" asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+        <a class="text-decoration-none text-white" asp-action="Index">Back to List</a>
+    </div>
+
+</div>

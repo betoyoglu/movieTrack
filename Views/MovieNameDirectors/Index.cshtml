@@ -1,0 +1,58 @@
+﻿@model IEnumerable<WebProject.Models.MovieNameDirector>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" href="/css/index.css">
+<div class="maindiv">
+    <div class="maindiv"><h1 class="text-white">MOVIE</h1></div>
+
+    <br></br>
+    @if (TempData["keyMessage"] != null)
+    {
+        <h2 class="bg-danger text-white text-capitalize" style="border-radius: 13px; padding-left:10px;">@TempData["keyMessage"]</h2>
+    }
+    <button type="button" class="btn btn-outline-light">
+        <a class="nav-link text-decoration-none text-black" asp-action="Create">Add a new movie</a>
+    </button>
+    <br></br>
+
+    <table style="width:100%;" class="table table-bordered table-striped table-dark table-hover">
+        <thead style="width:70%">
+            <tr>
+                <th>
+                    Movie Name
+                </th>
+                <th>
+                    Director
+                </th>
+                <th colspan="3">
+                    Actions
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MovieName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MovieDirector)
+                    </td>
+                    <td style="width:20px">
+                        <a class="nav-link text-white" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    </td>
+                    <td style="width:20px">
+                        <a class="nav-link text-white" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    </td>
+                    <td style="width:20px">
+                        <a class="nav-link text-white" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebProject
+build_property.RootNamespace = WebProject
+build_property.ProjectDir = C:\Users\Betül\Desktop\ödevler 2022-2023\201805057_AlpayKuzu_201805054_BetülToyoğlu\WebProject\WebProject\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Betül\Desktop\ödevler 2022-2023\201805057_AlpayKuzu_201805054_BetülToyoğlu\WebProject\WebProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Animes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Animes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Animes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Animes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Animes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/MovieNameDirectors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVOYW1lRGlyZWN0b3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/MovieNameDirectors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVOYW1lRGlyZWN0b3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/MovieNameDirectors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVOYW1lRGlyZWN0b3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/MovieNameDirectors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVOYW1lRGlyZWN0b3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/MovieNameDirectors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVOYW1lRGlyZWN0b3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Series/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Series/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Series/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Series/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Series/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Upcomings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBjb21pbmdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Upcomings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBjb21pbmdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Upcomings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBjb21pbmdzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Upcomings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBjb21pbmdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Upcomings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBjb21pbmdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/WatchLists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hMaXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/WatchLists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hMaXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/WatchLists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hMaXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/WatchLists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hMaXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/WatchLists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hMaXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Betül/Desktop/ödevler 2022-2023/201805057_AlpayKuzu_201805054_BetülToyoğlu/WebProject/WebProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4e5l3nx6xo

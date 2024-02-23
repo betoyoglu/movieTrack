@@ -1,0 +1,17 @@
+﻿body {
+    background-color: black;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+    color: white;
+}
+
+.maindiv {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    border: 4px groove black;
+    border-radius: 20px;
+    box-shadow: inherit gray 7px 7px;
+}
+

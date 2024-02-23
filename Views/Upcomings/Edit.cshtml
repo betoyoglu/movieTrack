@@ -1,0 +1,67 @@
+﻿@model WebProject.Models.Upcoming
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<link rel="stylesheet" href="~/css/index.css">
+<div class="maindiv">
+    <div class="maindiv"><h1>Edit</h1></div>
+    <br></br>
+
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Id" />
+                <div class="form-group text-white">
+                    <label asp-for="SeriesName" class="control-label">Series Name:</label>
+                    <input asp-for="SeriesName" class="form-control" />
+                    <span asp-validation-for="SeriesName" class="text-danger"></span>
+                </div>
+                <br></br>
+                <div class="form-group text-white">
+                    <label asp-for="Season" class="control-label">Season:</label>
+                    <input asp-for="Season" class="form-control" />
+                    <span asp-validation-for="Season" class="text-danger"></span>
+                </div>
+                <br></br>
+                <div class="form-group text-white">
+                    <label asp-for="Episode" class="control-label">Episode:</label>
+                    <input asp-for="Episode" class="form-control" />
+                    <span asp-validation-for="Episode" class="text-danger"></span>
+                </div>
+                <br></br>
+                <div class="form-group text-white">
+                    <label asp-for="DurationTime" class="control-label">Duration Time:</label>
+                    <input asp-for="DurationTime" class="form-control" />
+                    <span asp-validation-for="DurationTime" class="text-danger"></span>
+                </div>
+                <br></br>
+                <div class="form-group text-white">
+                    <label asp-for="ReleaseDate" class="control-label">Release Date:</label>
+                    <input asp-for="ReleaseDate" class="form-control" />
+                    <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+                </div>
+                <br></br>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-light" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a class="text-decoration-none text-white" asp-action="Index">Back to List</a>
+    </div>
+</div>
+
+
+
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
